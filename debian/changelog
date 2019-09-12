@@ -3,7 +3,11 @@ less (551-1) UNRELEASED; urgency=low
   * many thanks to Anibal Monsalve Salazar for a decade worth of contributions
     to this package
   * new maintainer (closes: #925018)
-  * new upstream release (closes: #925008, #892879)
+  * new upstream release (closes: #925008, #892879, #178276, #473227, #922185,
+    #839103, #626348, #330241, #914197, #707824)
+    - don't count lines in initial screen if using -X with -F (closes: #906261)
+    - update unicode tables to 2017-03-08 (closes: #597918, #881350)
+    - mark truncated lines with a special character (closes: #547257)
   * update less-is-more patch
 
  -- Milan Kupcevic <milan@debian.org>  Mon, 02 Sep 2019 20:08:15 -0400
