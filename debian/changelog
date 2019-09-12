@@ -8,6 +8,7 @@ less (551-1) UNRELEASED; urgency=low
     - don't count lines in initial screen if using -X with -F (closes: #906261)
     - update unicode tables to 2017-03-08 (closes: #597918, #881350)
     - mark truncated lines with a special character (closes: #547257)
+  * move binaries back to /usr/bin (closes: #500092)
   * update less-is-more patch
   * update lesspipe man page (lp: #1839533)
 
