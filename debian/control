@@ -6,6 +6,8 @@ Build-Depends:
  debhelper (>= 12),
  libncurses-dev
 Standards-Version: 4.4.0
+Vcs-Git: https://salsa.debian.org/debian/less.git
+Vcs-Browser: https://salsa.debian.org/debian/less
 Homepage: http://www.greenwoodsoftware.com/less/
 
 Package: less

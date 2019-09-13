@@ -11,6 +11,7 @@ less (551-1) UNRELEASED; urgency=low
   * set standards version to 4.4.0
   * set debhelper compatibility to 12
   * build depend on libncurses-dev
+  * add VCS repository URLs
   * gbp import pristine-tar
   * move binaries back to /usr/bin (closes: #500092)
   * update less-is-more patch
