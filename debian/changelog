@@ -11,6 +11,7 @@ less (551-1) UNRELEASED; urgency=low
   * set standards version to 4.4.0
   * set debhelper compatibility to 12
   * build depend on libncurses-dev
+  * gbp import pristine-tar
   * move binaries back to /usr/bin (closes: #500092)
   * update less-is-more patch
   * update lesspipe man page (lp: #1839533)
