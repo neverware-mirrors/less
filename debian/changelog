@@ -1,4 +1,4 @@
-less (551-1) UNRELEASED; urgency=low
+less (551-1) sid; urgency=low
 
   * many thanks to Anibal Monsalve Salazar for a decade worth of contributions
     to this package
@@ -17,7 +17,7 @@ less (551-1) UNRELEASED; urgency=low
   * update less-is-more patch
   * update lesspipe man page (lp: #1839533)
 
- -- Milan Kupcevic <milan@debian.org>  Mon, 02 Sep 2019 20:08:15 -0400
+ -- Milan Kupcevic <milan@debian.org>  Sat, 14 Sep 2019 22:28:16 -0400
 
 less (487-0.1) unstable; urgency=medium
 
