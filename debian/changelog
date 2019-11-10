@@ -1,3 +1,9 @@
+less (551-1~bpo10+1) buster-backports; urgency=medium
+
+  * buster-backports rebuild
+
+ -- Milan Kupcevic <milan@debian.org>  Sun, 10 Nov 2019 10:15:51 -0500
+
 less (551-1) sid; urgency=low
 
   * many thanks to Anibal Monsalve Salazar for a decade worth of contributions
